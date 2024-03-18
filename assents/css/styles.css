@@ -1,0 +1,11 @@
+body{
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.principal{
+    display: flex;
+}
+
+.columna{
+    width: 50%;
+}
